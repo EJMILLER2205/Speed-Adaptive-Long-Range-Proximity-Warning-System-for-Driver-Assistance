@@ -1,4 +1,3 @@
-
 #include "tf03.h"
 
 void tf03_init(tf03_parser_t *p) {
